@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"libft.h": "c",
+		"string": "c",
+		"string_view": "c",
+		"array": "c",
+		"initializer_list": "c",
+		"ranges": "c",
+		"span": "c",
+		"utility": "c",
+		"stdlib.h": "c",
+		"libft_bonus.h": "c",
+		"random": "c"
+	},
+	"editor.insertSpaces": FALSE
+}
